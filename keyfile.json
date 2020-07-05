@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dhamu-python-dev",
+  "private_key_id": "8a7f55b3e94c2d21ae14b8443313bf4cdd6c5ec6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDU5uZaBTWAuL5a\nDk+TdkSOgqf9oHa8N6yKcKnUZMWr5bvSbcXaPstQ12uoI02I8K5fNh3TfRPB9Dj3\n5N6jwzH/0OoIShA2e2tGNawdVXNwbHAqowRFOG6fZl71SACX7p/Gr3VJgY94aEp/\nFWPRbzAlwgdue/1zZqf5l7kM8tPZlqcATRA98GMkgJQgDRQzR+XTgBuPYdMVsm5V\n67uFybOZDI8XblzMd6uluhiNva2UKMs0Seym2GNQw9jXHqos3PNGtugeAZJyg13S\nWIVEGuHIisPdxLfTaTRhIRq4u9WCFuC4XuWQ8LB4tvDb9RejM3zoFK6jehItS3j3\nfC5ZxeHRAgMBAAECggEADa9DyjCAhmQZlCdMVSGqeXCLhMFuMF3xwLpKKEVL8Wck\nYfu9VnBn2Cvolxeh0bYKt0L+usvU28graz+yUdtnmNZgXKUKEr5vIEWt6PrHn0fR\nE+SDj0F31tYZL3Hv29QyP+6iPtXNl4M4mp+Q2XLoqNymZqMgoOzNyjzG376yAE/R\nEKi8bGneZwDyl3zKhPBtQj+7S5+QkMz2Mkn1x0hSfZNQlkLh4vUvsMFLXveNjOlx\nLUhZ5NtuLAspZXGrec4+4a3s/xbTrN4MMAjuz2HK/URbpuIUedWesJgXEA+JTUcO\nAWvdw9cs99SsiJEQsaKqYo38pCiKpksA46Trvcb7KwKBgQD+BNeQbYaqY8n7hk8P\nVv8VOZOFRWtKwHu7arH2+C8/FQ3xD/eQ67+ivAjXmgPFZQhvooP6QQlSbRU6l8ei\nCdWOJ/a/b5DerT/VTOLUWSuR9eegGP4foDSZFB1lnjaNWIJFE2sgGrlaCfuBQTom\ntXIt/6bmt8i8sdQWGVOE68VS2wKBgQDWj/dc7BOeoPgh4ylPiOD5hSvY9s5Ci4Lo\nFCVQZ27GMuBfpH/fbPHZk05+CrubheDQ0Hzbv2WQmjBmPXO4hxNi0LtRH7qlJKla\nROm+Y82XaHLFQRmluhUBBPPtfYqy6zzWMvupCd05oF+1qMr4DqQbNVfM1ZdV22KH\nztNYeFHfwwKBgQDlDciz24+LJeCEhl/UHUZ3BSwZCLfu+BKatWM0qCcyYvHnZdZ/\nP5XWUGhIwgCUhr5Mq+cGSo71XJe/9g11+Bgxz6eYiCnCIcdlt6byhFXdkDgFDYRZ\nUEUdpB29/CSE4ELXtuLqWC67GjVIIGEndoY3JEiD00WXoWL1anD9cvzD8QKBgQCt\ngexSC2JuQ9OEa9NrStBLV0K3CBaRv4nTrP7jv1DYHCpPjZIOlmYZQUMXMAy4XpIH\nqqFdfrBeOCHte8JJtYmavhrMJnFjvHrq0ZGH8eM+jitJkjRwTUNQ+LVdFsmDmDEx\nMjdKYfyw7hyXpXDFGenhSsi+jvb7ahaKpllIULw8ywKBgB5YzHaVOKMlS1s6O4Lt\njf2Owxz598zlzqjMqZVfMrRrR/dvD5iiwdjyLiRgsWjyr3cNnv5hVXW1wTDDfo2F\nWRRwUnTH6eAmGWLSRtLCARnIGD8ykRNsfh3wdDq0M6CMeMU5ZqK34y0t3bXQUngI\ngOyHFBuSiI9FinAYPfhxpD47\n-----END PRIVATE KEY-----\n",
+    "client_email": "dhamu-python-credential@dhamu-python-dev.iam.gserviceaccount.com",
+  "client_id": "112523118965579834896",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dhamu-python-credential%40dhamu-python-dev.iam.gserviceaccount.com"
+}
